@@ -49,3 +49,5 @@
 ### Skill Badges:
 
 <img src="https://user-images.githubusercontent.com/32775169/119108854-47300480-ba3e-11eb-8228-05899e41bc78.png" width="300" height="200"/> <img src="https://user-images.githubusercontent.com/32775169/119108856-47c89b00-ba3e-11eb-9610-8b555057b861.png" width="300" height="200"/> <img src="https://user-images.githubusercontent.com/32775169/119108859-47c89b00-ba3e-11eb-8973-72d0a8a41756.png" width="300" height="200"/> <img src="https://user-images.githubusercontent.com/32775169/119108850-45fed780-ba3e-11eb-9489-099898bb2dbf.png" width="300" height="200"/>
+
+# Thank You.
